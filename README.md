@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Angular, NestJS, and API development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
-
-- 📝 I regularly write articles on [My Blog](My Blog)
-
 - 💬 Ask me about **Frontend & Backend development, Angular, NestJS, Symfony, HTML, CSS, UI/UX, and DevOps**
 
 - 📫 How to reach me **mayssa.rzigui@esprit.tn**
