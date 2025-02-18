@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **mayssa.rzigui@esprit.tn**
 
-- 📄 Know about my experiences [My Resume](My Resume)
-
 - ⚡ Fun fact **I think I am funny 😄 (and I love solving coding challenges!)**
 
 <h3 align="left">Connect with me:</h3>
